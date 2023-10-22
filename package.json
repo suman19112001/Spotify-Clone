@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "simple-git": "^3.20.0"
+  }
+}
